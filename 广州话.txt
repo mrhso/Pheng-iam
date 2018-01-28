@@ -1,0 +1,119 @@
+声母
+
+IPA	黄锡凌宽式音标	教院式	粤拼	耶鲁式	刘锡祥式	乔砚农式	词儿细译式	黄锡凌罗马拼音	广州式
+p	b	b	b	b	b	b	b	b	b
+pʰ	p	p	p	p	p	p	p	p	p
+m	m	m	m	m	m	m	m	m	m
+f	f	f	f	f	f	f	f	f	f
+t	d	d	d	d	d	d	d	d	d
+tʰ	t	t	t	t	t	t	t	t	t
+n	n	n	n	n	n	n	n	n	n
+l	l	l	l	l	l	l	l	l	l
+k	g	g	g	g	g	g	g	g	g
+kʰ	k	k	k	k	k	k	k	k	k
+h	h	h	h	h	h	h	h	h	h
+ŋ	ŋ	ng	ng	ng	ng	ng	ng	ng	ng
+kʷ	gw	gw	gw	gw	gw	gw	gw	gw	gu
+kʷʰ	kw	kw	kw	kw	kw	kw	kw	kw	ku
+t͡s/t͡ʃ、t͡ɕ	dz	dz	z	j	j	z	j	dz、z	z、j
+t͡sʰ/t͡ʃʰ、t͡ɕʰ	ts	ts	c	ch	ch	ts	ch	ts	c、q
+s/ʃ、ɕ	s	s	s	s	s	s	s	s	s、x
+j	j	j	j	y	y	y	y	y	y
+w	w	w	w	w	w	w	w	w	w
+ʔ
+
+注释：
+表中「/」后是不推荐用法，「、」表示容许用法或分派。
+[t͡s]、[t͡sʰ]、[s] 在圆唇元音前可能被读成舌叶音 [t͡ʃ]、[t͡ʃʰ]、[ʃ] 或塞擦音 [t͡ɕ]、[t͡ɕʰ]、[ɕ]。但是在本来分精照的情况下这样就不太合适了。
+黄锡凌罗马拼音中，「dz」可以简化成「z」。
+在 [j] 用「y」表示的拼音方案，「yu」、「yun」、「yut」不作「yyu」、「yyun」、「yyut」。
+在广州式中「j」、「q」、「x」用于接「i」、「ü」开头的韵母，其余情况用「z」、「c」、「s」。
+[ʔ] 可以看作是零声母。
+
+韵母
+
+IPA	黄锡凌宽式音标	教院式	粤拼	耶鲁式	刘锡祥式	乔砚农式	词儿细译式	黄锡凌罗马拼音	广州式
+ɑː	a	a、aa	aa	a	a	a	aa	a	a
+ɑːɪ̯	ai	aai	aai	aai	aai	ai	aai	aai	ai
+ɑːʊ̯	au	aau	aau	aau	aau	ao	aau	aau	ao
+ɑːm	am	aam	aam	aam	aam	am	aam	aam	am
+ɑːn	an	aan	aan	aan	aan	an	aan	aan	an
+ɑːŋ	aŋ	aang	aang	aang	aang	ang	aang	aang	ang
+ɑːp̚	ap	aap	aap	aap	aap	ap	aap	aap	ab
+ɑːt̚	at	aat	aat	aat	aat	at	aat	aat	ad
+ɑːk̚	ak	aak	aak	aak	aak	ak	aak	aak	ag
+ɐi̯	ɐi	ai	ai	ai	ai	ae	ai	ai	ei
+ɐu̯	ɐu	au	au	au	au	au	au	au	ou、eo
+ɐm	ɐm	am	am	am	am	em	am	am	em
+ɐn	ɐn	an	an	an	an	en	an	an	en
+ɐŋ	ɐŋ	ang	ang	ang	ang	eng	ang	ang	eng
+ɐp̚	ɐp	ap	ap	ap	ap	ep	ap	ap	eb
+ɐt̚	ɐt	at	at	at	at	et	at	at	ed
+ɐk̚	ɐk	ak	ak	ak	ak	ek	ak	ak	eg
+ɛː	ɛ	e	e	e	e	e	e	e	é
+ei̯	ei	ei	ei	ei	ei	ei	ei	ei	éi
+ɛːʊ̯	ɛu	eu	eu	eeu	eu	eiu	eu	eeu	éu
+ɛːm	ɛm	em	em	em	em	eim	em	em	ém
+ɛːn	ɛn	en	en	en	en	ein	en	en	én
+ɛːŋ	ɛŋ	eng	eng	eng	eng	eing	eng	eng	éng
+ɛːp̚	ɛp	ep	ep	ep	ep	eip	ep	ep	éb
+ɛːk̚	ɛk	ek	ek	ek	ek	eik	ek	ek	ég
+iː	i	i	i	i	i	i	i	i	i
+iːʊ̯	iu	iu	iu	iu	iu	iu	iu	iu	iu
+iːm	im	im	im	im	im	im	im	im	im
+iːn	in	in	in	in	in	in	in	in	in
+eŋ	iŋ	ing	ing	ing	ing	ing	ing	ing	ing
+iːp̚	ip	ip	ip	ip	ip	ip	ip	ip	ib
+iːt̚	it	it	it	it	it	it	it	it	id
+ek̚	ik	ik	ik	ik	ik	ik	ik	ik	ig
+ɔː	ɔ	o	o	o	oh	o	o	o	o
+ɔːʏ̯	ɔi	oi	oi	oi	oi	oi	oi	oi	oi
+ou̯	ou	ou	ou	ou	o	ou	ou	ou	ô、ou
+ɔːn	ɔn	on	on	on	on	on	on	on	on
+ɔːŋ	ɔŋ	ong	ong	ong	ong	ong	ong	ong	ông、ong
+ɔːt̚	ɔt	ot	ot	ot	ot	ot	ot	ot	od
+ɔːk̚	ɔk	ok	ok	ok	ok	ok	ok	ok	og
+œː	œ	oe	oe	eu	euh	oe	oe	eu	ê
+ɵy̯	œy	oey	eoi	eui	ui	ey	oei	eue	êu
+ɵn	œn	oen	eon	eun	un	oen	oen	eun	ên
+œːŋ	œŋ	oeng	oeng	eung	eung	oeng	oeng	eung	êng
+ɵt̚	œt	oet	eot	eut	ut	oet	oet	eut	êd
+œːk̚	œk	oek	oek	euk	euk	oek	oek	euk	êg
+uː	u	u	u	u	oo	u	u	u	u
+uːʏ̯	ui	ui	ui	ui	ooi	ui	ui	ui	ui
+uːn	un	un	un	un	oon	un	un	un	un
+oŋ	uŋ	ung	ung	ung	ung	ung	ung	ung	ong、ung
+uːt̚	ut	ut	ut	ut	oot	ut	ut	ut	ud
+ok̚	uk	uk	uk	uk	uk	uk	uk	uk	ug
+yː	y	y	yu	yu	ue	yu	ue	ue	ü
+yːn	yn	yn	yun	yun	uen	yun	uen	uen	ün
+yːt̚	yt	yt	yut	yut	uet	yut	uet	uet	üd
+m̩	m̩	m	m	m	m	m	m	m	m
+ŋ̩	ŋ̩	ng	ng	ng	ng	ng	ng	ng	ng
+
+注释：
+教院式原本以「a」表示 [ɑː]，但是《广州话正音字典》以「aa」表示。
+黄锡凌罗马拼音的「eue」为「euue」缩减而来。
+广州式「ü」开头的韵母，碰到「j」、「q」、「x」、「y」，「ü」要变成「u」。
+广州式原本用「ou」、「ô」、「ông」、「ong」表示 [ɐu̯]、[ou̯]、[ɔːŋ]、[oŋ]，但是《广州音字典》改成了「eo」、「ou」、「ong」、「ung」。
+广州式的「êu」为「êü」缩减而来。
+[ɛːʊ̯]、[ɛːm]、[ɛːn]、[ɛːp̚] 存在暴力扩充的现象，不喜憋着。
+
+声调表
+
+调类	IPA	黄锡凌宽式音标	教院式	粤拼	耶鲁式	刘锡祥式	乔砚农式	词儿细译式	黄锡凌罗马拼音	广州式
+阴平（高平）	◌˥	左上角「|」	◌¹	◌1、◌0	fān	◌¹	◌¹	◌1	左上角「|」	◌¹
+阴平（高降）	◌˥˧	左上角「+」	◌⁰	◌0、◌1	fàn	◌¹°	◌⁰	◌0	左上角「+」	◌⁰
+阴上	◌˧˥	左上角「/」	◌²	◌2	fán	◌²	◌²	◌2	左上角「/」	◌²
+阴去	◌˧	左上角「-」	◌³	◌3	fan	◌³	◌³	◌3	左上角「-」	◌³
+阳平	◌˨˩、◌˩	左下角「|」	◌⁴	◌4	fàhn	◌⁴	◌⁴	◌4	左下角「|」	◌⁴
+阳上	◌˩˧	左下角「/」	◌⁵	◌5	fáhn	◌⁵	◌⁵	◌5	左下角「/」	◌⁵
+阳去	◌˨	左下角「-」	◌⁶	◌6	fahn	◌⁶	◌⁶	◌6	左下角「-」	◌⁶
+阴入	◌˥	左上角「|」	◌⁷	◌1	fāt	◌¹	◌⁷	◌1	左上角「|」	◌¹
+中入	◌˧	左上角「-」	◌⁸	◌3	faat	◌³	◌⁸	◌3	左上角「-」	◌³
+阳入	◌˨	左下角「-」	◌⁹	◌6	faht	◌⁶	◌⁹	◌6	左下角「-」	◌⁶
+新入	◌˧˥	左上角「/」	◌²	◌2	típ	◌²	◌²	◌2	左上角「/」	◌²
+
+注释：
+表中一般「◌」代表整个音节，在耶鲁式代表元音。例如耶鲁式「fan」的阳平实际上是「fàhn」。
+粤拼石𫁶变种高平和高降分别是「◌1」和「◌0」，但是荷达变种正好相反。
